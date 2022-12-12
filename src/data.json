@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "task": "Study",
+        "complete": true
+    },
+    {
+        "id": 2,
+        "task": "Do laundry",
+        "complete": true
+    },
+    {
+        "id": 3,
+        "task": "Groceries",
+        "complete": false
+    },
+    {
+        "id": 4,
+        "task": "Feed dog",
+        "complete": true
+    }
+]
